@@ -1,0 +1,3 @@
+include ':mygitlibrary'
+include ':app'
+rootProject.name = "MyFirstLibrary"
